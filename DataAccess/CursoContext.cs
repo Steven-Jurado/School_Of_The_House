@@ -12,8 +12,8 @@ namespace DataAccess
         private string dataBaseName = "CursosBD";
         private string authentication = "true";
 
-        private DbSet<User> Users { get; set; }
-        private DbSet<Course> Course { get; set; }
+        public DbSet<UserEntity> Users { get; set; }
+        public DbSet<CourseEntity> Course { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Entity
 {
-    public class User
+    public class UserEntity
     {
         [Key]
         public string IdUser { get; set; }
@@ -15,6 +15,6 @@ namespace Entity
         public string LastName { get; set; }
 
         public string CourseId { get; set; }
-        public Course Course { get; set; }
+        public CourseEntity Course { get; set; }
     }
 }

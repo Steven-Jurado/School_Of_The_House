@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entity
 {
-    public class Course
+    public class CourseEntity
     {
         [Key]
         public string IdCourse { get; set; }
@@ -16,6 +16,6 @@ namespace Entity
         public int QuantityCourse { get; set; }
 
         //
-        public ICollection<User> Users { get; set; }
+        public ICollection<UserEntity> Users { get; set; }
     }
 }
