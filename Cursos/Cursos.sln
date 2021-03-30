@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cursos", "Cursos.csproj", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{38FEDFA8-D8DF-4CFB-8438-1287AAE5E171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "..\Entity\Entity.csproj", "{59D9CF04-82A1-4AAA-8810-CBBCD6C6BEDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "..\Entity\Entity.csproj", "{59D9CF04-82A1-4AAA-8810-CBBCD6C6BEDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{A0259217-84FC-440A-A5FE-465589BE9778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "..\Business\Business.csproj", "{A0259217-84FC-440A-A5FE-465589BE9778}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

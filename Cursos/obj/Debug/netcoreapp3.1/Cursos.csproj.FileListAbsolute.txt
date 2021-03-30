@@ -92,3 +92,4 @@ C:\Users\yenny\Desktop\Portafolio\ASP .Net Core Razor\Cursos\bin\Debug\netcoreap
 C:\Users\yenny\Desktop\Portafolio\ASP .Net Core Razor\Cursos\obj\Debug\netcoreapp3.1\Razor\Pages\Course\CreateCourse.cshtml.g.cs
 C:\Users\yenny\Desktop\Portafolio\ASP .Net Core Razor\Cursos\obj\Debug\netcoreapp3.1\Razor\Pages\Course\Index.cshtml.g.cs
 C:\Users\yenny\Desktop\Portafolio\ASP .Net Core Razor\Cursos\obj\Debug\netcoreapp3.1\Razor\Pages\Course\UpdateCourse.cshtml.g.cs
+C:\Users\yenny\Desktop\Portafolio\ASP .Net Core Razor\Cursos\obj\Debug\netcoreapp3.1\Razor\Pages\User\UpdateUsers.cshtml.g.cs
